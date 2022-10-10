@@ -38,3 +38,18 @@ Por exemplo:
 | Exemplo imagem Feedback |
 | ---- |
 ![image](https://user-images.githubusercontent.com/47821731/193606147-f81c02a3-6514-46ff-b0f4-7a5f6001374a.png)
+
+---
+
+# *Skeuomorphism*
+O "***Skeuomorphism***" trata-se de um conceito de *design* em que os objetos que estão a ser representados sejam semelhantes aos do mundo real. São geralmente usados elementos em 3D, com sombras, destaques e algum nível de detalhe.
+Como podemos observar no exemplo a seguir, este foi o conceito utilizado pela *Apple* no *iOS* 6.
+Temos o exemplo do ícone da câmera, onde conseguimos ver a representação da lente, com profundidade e o reflexo da mesma. 
+Na ícone das notas podemos ver a grande semelhança com um bloco de notas real, entre outras.
+
+| Exemplo imagem Skeuomorphism |
+| ---- |
+![image](https://user-images.githubusercontent.com/47821731/194913920-b8b4a493-707f-4b34-8420-890462d07c84.png)
+
+
+
