@@ -51,5 +51,14 @@ Na ícone das notas podemos ver a grande semelhança com um bloco de notas real,
 | ---- |
 ![image](https://user-images.githubusercontent.com/47821731/194913920-b8b4a493-707f-4b34-8420-890462d07c84.png)
 
+---
+
+# Projeto prático
+
+Este projeto consiste na elaboração de um protótipo de uma aplicação onde será tida uma atenção particular ao interface de utilização. Nesta secção vou publicar cada entrega do trabalho, bem como o *step-by-step* do desenvolvimento do mesmo.
+
+## Primeira entrega
+
+Na primeira entrega elaborei uma porposta de trabalho que poderá ser consultada [aqui](https://github.com/marcoftmartins/DIM-caderno-digital/blob/main/PropostaTrabalho.pdf).
 
 
