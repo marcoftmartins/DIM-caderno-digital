@@ -61,4 +61,14 @@ Este projeto consiste na elaboração de um protótipo de uma aplicação onde s
 
 Na primeira entrega elaborei uma porposta de trabalho que poderá ser consultada [aqui](https://github.com/marcoftmartins/DIM-caderno-digital/blob/main/PropostaTrabalho.pdf).
 
+## Segunda entrega
+
+Na segunda entrega desenvolvi o protótipo de baixa fidelidade através de wireframes para a proposta do interface. O protótipo pode ser consultado [aqui](https://github.com/marcoftmartins/DIM-caderno-digital/blob/main/Wireframes.png).
+
+## Terceira entrega
+
+Na terceira e ultima entrega elaborei o protótipo final usando o figma, protótipo esse que poderá ser consultado na integra [aqui](https://www.figma.com/file/HWYOEmypFSTl7dvacr65Bv/Untitled?node-id=0%3A1&t=rci21KIjxrF3BWeM-0).
+
+
+
 
